@@ -1,0 +1,84 @@
+{
+    "kidmed":[
+        {
+            "id":1,
+            "q":"Hergün meyve veya taze sıkılmış meyve suyu tüketirim",
+            "req":false
+        },
+        {
+            "id":2,
+            "q":"Hergün ikinci bir meyve daha tüketirim",
+            "req":false
+        },
+        {
+            "id":3,
+            "q":"Düzenli olarak günde bir kez taze veya pişmiş sebze tüketirim",
+            "req":false
+        },
+        {
+            "id":4,
+            "q":"Günde birden fazla veya taze pişmiş sebze tüketirim",
+            "req":false
+        },
+        {
+            "id":5,
+            "q":"Düzenli olarak balık tüketirim (haftada en az 2-3kez)",
+            "req":false
+        },
+        {
+            "id":6,
+            "q":"Fast-food tarzı restorantlara (hamburger) haftada bir kereden fazla giderim",
+            "req":true
+        },
+        {
+            "id":7,
+            "q":"Baklagilkn severim haftada bir kereden fazla tüketirim",
+            "req":false
+        },
+        {
+            "id":8,
+            "q":"Makarna ve pilavı hemen hemen her gün tüketitim (haftada 5 veya daha fazla)",
+            "req":false
+        },
+        {
+            "id":9,
+            "q":"Kahvaltıda tahıl (ekmek) veya tahıl ürünleri (tahıl gevreği) tüketinim",
+            "req":false
+        },
+        {
+            "id":10,
+            "q":"Düzenli olarak kuruvemiş tüketirim (haftada en az 2-3 kez)",
+            "req":false
+        },
+        {
+            "id":11,
+            "q":"Evde zeytinyağı kullanırım",
+            "req":false
+        },
+        {
+            "id":12,
+            "q":"Kahvaltı yapmam",
+            "req":true
+        },
+        {
+            "id":13,
+            "q":"Kahvaltıda süt ve süt ürünleri tüketirim (süt. yoğun ...)",
+            "req":false
+        },
+        {
+            "id":14,
+            "q":"Kahvaltıdada hazır fırın ürünleri veya hamur işleri tüketirim",
+            "req":true
+        },
+        {
+            "id":15,
+            "q":"Günlük olarak 2 bardak süt/yoğurt ve/veya 1 büyük dilim (40gr) peynir tüketirim",
+            "req":false
+        },
+        {
+            "id":16,
+            "q":"Tatlı, şeker ve şekerlemeleri günde birkaç kez tüketirm",
+            "req":true
+        }
+    ]
+}
